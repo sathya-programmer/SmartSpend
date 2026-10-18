@@ -1,0 +1,9 @@
+{
+  "name": "smartspend",
+  "version": "1.0.0",
+  "description": "SmartSpend - personal finance tracker (Node.js + SQLite)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "seed": "node seed.js", "test": "node test-admin.js" },
+  "engines": { "node": ">=22.5" },
+  "license": "MIT"
+}

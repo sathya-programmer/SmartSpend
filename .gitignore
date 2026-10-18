@@ -1,0 +1,4 @@
+node_modules/
+smartspend.db
+smartspend.db-wal
+smartspend.db-shm
